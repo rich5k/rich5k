@@ -13,14 +13,17 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=rich5k&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Welcome to Richard's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234F94B1&lines=Hi+there!+I+am+Richard.;A+Fullstack+Web+Developer;Striving+to+become+a+fulltime+software+engineer...)](https://git.io/typing-svg)
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+
+
 
 ---
 
@@ -33,7 +36,7 @@
 
 - :zap: I enjoy programming, problem-solving, tutoring, listening to tech podcasts, reading, collaborating with others to build cool apps and challenges that push me to be a better version of myself.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-richard-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-kafui-anatsui/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-richard-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-kafui-anatsui/) or email me on richardanatsui@gmail.com
 
 
 ---
@@ -60,3 +63,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rich5k&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rich5k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rich5k&show_icons=true&theme=tokyonight)
