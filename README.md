@@ -31,7 +31,7 @@
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 
 
-- :telescope: I am a student @ day, software developer @ night.
+- :telescope: I am a software developer @ day, digital artist @ night.
 
 - :seedling: Exploring Blockchain Development.
 
